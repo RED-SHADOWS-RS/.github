@@ -13,10 +13,33 @@
 
 ### 💻 تقنياتنا
 
-- <strong>لغات البرمجة:</strong> <span dir="ltr">Python</span>، <span dir="ltr">JavaScript</span>، <span dir="ltr">Dart</span>، <span dir="ltr">Java</span>، <span dir="ltr">PHP</span>  
-- <strong>أطر العمل والمكتبات:</strong> <span dir="ltr">Node.js</span>، <span dir="ltr">Flutter</span>، <span dir="ltr">React</span>، <span dir="ltr">Express.js</span>، <span dir="ltr">Flask</span>، <span dir="ltr">Electron.js</span>  
-- <strong>تطوير الويب:</strong> <span dir="ltr">HTML</span>، <span dir="ltr">CSS</span>، <span dir="ltr">JavaScript</span>، <span dir="ltr">WordPress</span>  
-- <strong>إدارة قواعد البيانات:</strong> <span dir="ltr">MySQL</span>
+#### 🧠 لغات البرمجة
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### ⚙️ أطر العمل والمكتبات
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+#### 🌍 تطوير الويب
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+#### 🗄️ إدارة قواعد البيانات
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -35,7 +58,7 @@
 
 ---
 
-📫 <strong>للتواصل:</strong> [redshadows.dev.team@gmail.com](mailto:redshadows.dev.team@gmail.com)
+📫 <strong>للتواصل:</strong> [](mailto:)
 
 ---
 
