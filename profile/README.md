@@ -1,4 +1,4 @@
-# Red Shadows | RS 👾
+# Red Shadows | RS
 
 **Red Shadows (RS)** is a creative and skilled programming team focused on crafting powerful, lightweight, and efficient digital solutions.  
 We specialize in building **websites, mobile apps, bots, desktop tools, and custom automation systems** tailored to real-world needs.
