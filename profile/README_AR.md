@@ -50,7 +50,7 @@
 
 <div dir="rtl" align="right">
 
-📫 **للتواصل:** [redshadows.dev.team@gmail.com](mailto:redshadows.dev.team@gmail.com)
+📫 **للتواصل:** [](mailto:)
 
 </div>
 
