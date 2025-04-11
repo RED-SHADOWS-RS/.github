@@ -1,3 +1,5 @@
+> 🇸🇦 [اقرأ هذه النبذة باللغة العربية](README_AR.md)
+
 # Red Shadows | RS
 
 **Red Shadows (RS)** is a passionate and innovative software development team committed to building powerful, lightweight, and efficient solutions.  
