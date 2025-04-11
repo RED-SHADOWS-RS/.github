@@ -1,4 +1,10 @@
+<div dir="rtl" align="right">
+
 > 🇸🇦 [اللغة العربية](README_AR.md)
+
+</div>
+
+<div dir="ltr" align="left">
 
 # Red Shadows | RS
 
@@ -13,13 +19,14 @@ We work with startups, businesses, and individuals to deliver tailored and user-
 
 - **Programming Languages:** Python, JavaScript, Dart, Java, PHP  
 - **Frameworks & Libraries:** Node.js, Flutter, React, Express.js, Flask, Electron.js  
-- **Web Development:** HTML, CSS, WordPress, MySQL
+- **Web Development:** HTML, CSS, JavaScript, WordPress  
+- **Database Management:** MySQL
 
 ---
 
 ### 🔧 What We Build
 
-- 🌐 **Websites** — Fast, responsive, and SEO-optimized (custom-built or WordPress)  
+- 🌐 **Websites** — Fast, interactive, and SEO-optimized using HTML, CSS, JavaScript, and WordPress  
 - 📱 **Mobile Apps** — Cross-platform apps for Android & iPhone using Flutter  
 - 🖥️ **Desktop Applications** — Software for Windows, Linux, and macOS using Electron & Java  
 - 🤖 **Bots & Automation** — Telegram bots, Discord bots, scrapers, automation tools  
@@ -36,4 +43,6 @@ We work with startups, businesses, and individuals to deliver tailored and user-
 
 ---
 
-© 2023–2025 **Red Shadows | RS** — All rights reserved.
+© 2023–<span id="year">2025</span> **Red Shadows | RS** — All rights reserved.
+
+</div>
