@@ -47,6 +47,7 @@
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%237e96b3?style=for-the-badge&logo=yaml&logoColor=white)
 
 ---
 
