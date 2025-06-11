@@ -4,9 +4,9 @@
 
 </div>
 
-# Red Shadows | RS
+# RED SHADOWS | RS
 
-**Red Shadows (RS)** — is a passionate and innovative software development team committed to building powerful, lightweight, and efficient solutions.  
+**RED SHADOW | RS** — is a passionate and innovative software development team committed to building powerful, lightweight, and efficient solutions.  
 We transform ideas into modern websites, apps, tools, and automation systems that perform and scale across all platforms.
 
 We work with startups, businesses, and individuals to deliver tailored and user-friendly digital products.
